@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hungry Man", "Hungry Man\Hungry Man\Hungry Man.csproj", "{63DD41C4-6993-4FFA-B962-AF1EC7325F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hungry ManContent", "Hungry Man\Hungry ManContent\Hungry ManContent.contentproj", "{1738900F-DF28-4B6B-9FC3-74F293575A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hungry Man Map Editor", "Hungry Man Map Editor\Hungry Man Map Editor.csproj", "{7D9DA943-30DA-4BF2-91A6-B5E279EB3828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configure graphic", "Configure graphic\Configure graphic.csproj", "{64B455E6-72AF-4F8B-8640-99378D64D5DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DD41C4-6993-4FFA-B962-AF1EC7325F60}.Debug|x86.ActiveCfg = Debug|x86
+		{63DD41C4-6993-4FFA-B962-AF1EC7325F60}.Debug|x86.Build.0 = Debug|x86
+		{63DD41C4-6993-4FFA-B962-AF1EC7325F60}.Release|x86.ActiveCfg = Release|x86
+		{63DD41C4-6993-4FFA-B962-AF1EC7325F60}.Release|x86.Build.0 = Release|x86
+		{1738900F-DF28-4B6B-9FC3-74F293575A40}.Debug|x86.ActiveCfg = Debug|x86
+		{1738900F-DF28-4B6B-9FC3-74F293575A40}.Release|x86.ActiveCfg = Release|x86
+		{7D9DA943-30DA-4BF2-91A6-B5E279EB3828}.Debug|x86.ActiveCfg = Debug|x86
+		{7D9DA943-30DA-4BF2-91A6-B5E279EB3828}.Debug|x86.Build.0 = Debug|x86
+		{7D9DA943-30DA-4BF2-91A6-B5E279EB3828}.Release|x86.ActiveCfg = Release|x86
+		{7D9DA943-30DA-4BF2-91A6-B5E279EB3828}.Release|x86.Build.0 = Release|x86
+		{64B455E6-72AF-4F8B-8640-99378D64D5DC}.Debug|x86.ActiveCfg = Debug|x86
+		{64B455E6-72AF-4F8B-8640-99378D64D5DC}.Debug|x86.Build.0 = Debug|x86
+		{64B455E6-72AF-4F8B-8640-99378D64D5DC}.Release|x86.ActiveCfg = Release|x86
+		{64B455E6-72AF-4F8B-8640-99378D64D5DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
